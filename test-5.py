@@ -1,4 +1,4 @@
-# This copies a document information and pastes it somewhere.
+# This copies a document information and pastes it somewhere..
 
 # This has to be named where u want to take the text from.
 myfile = open('TEST.txt')
