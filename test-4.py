@@ -1,4 +1,4 @@
-# Opens files and reads them.
+# Opens files and reads them..
 
 # The file name should be in ('XXX')
 myfile = open('TEST.txt')
